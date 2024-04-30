@@ -1,0 +1,44 @@
+* {
+    font-family: "Hind Siliguri", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.device__sale {
+    color: rgba(244, 249, 252, 1);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 27px;
+    text-transform: uppercase;
+    margin-top: 5px;
+}
+
+.device__title {
+    color: #F4F9FC;
+    font-size: 31px;
+    font-weight: 600;
+}
+
+.device__link {
+    color: rgba(244, 249, 252, 1);
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 7px;
+    text-decoration: none;
+}
+
+.container {
+    justify-content: flex-end;
+    column-gap: 30px;
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+}
+
+.device__block {
+    
+    padding: 75px 35px 74px;
+    background: linear-gradient(257.26deg, #008BF0 -13.2%, #D943C9 130.95%);
+
+}
